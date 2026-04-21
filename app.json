@@ -29,12 +29,12 @@
       "value": "✦ Silva ✦ MD ✦"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number with country code (e.g. 254712345678).",
+      "description": "Owner WhatsApp number with country code (e.g. 4915511 034702).",
       "required": true,
       "value": ""
     },
     "OWNER_NAME": {
-      "description": "Bot owner's display name.",
+      "description": "≛⃝ᗩᗪᖇIᗴᑎ🦂🕸️🕷️༒︎ .",
       "required": false,
       "value": "Silva MD"
     },
